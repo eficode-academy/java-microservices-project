@@ -93,6 +93,10 @@ heroku logs --tail
 
 ## Exercises
 
+In the beginning just hard code values everywhere and focus on getting the correct message flow. Then focus on deploying everything to Heroku. Then add actual Postgres databases. Then add a front-end. Then add actual authentication and user management. Then make Amazon.
+
+Whenever you make changes see how many of the services you have keep running. 
+
 ### Product service
 A "fetch-product", or "fetch-product-page" event contains a sessionId, a userId, and a productId, separated by commas.
 
