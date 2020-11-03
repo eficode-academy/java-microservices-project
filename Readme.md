@@ -37,7 +37,7 @@ Copy the CLOUDAMQP_APIKEY and the CLOUDAMQP_URL and paste them somewhere.
 
 Get the base from GitHub:
 ```
-git clone https://github.com/thedrlambda/java-service-base.git
+git clone https://github.com/eficode-academy/java-service-base.git
 ```
 
 Rename it to the service name: 
