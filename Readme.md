@@ -20,6 +20,8 @@ Create an environment on heroku to host the Rapid:
 heroku create
 ```
 
+Make sure you have a verified Heroku account. This means you need to input your credit card information on Heroku. You will _not_ be charged for anything in this exercise.
+
 Create the Rapid:
 ```
 heroku addons:create cloudamqp:lemur
