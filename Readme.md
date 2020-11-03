@@ -2,6 +2,12 @@
 
 ## Setup Rapid
 
+### Locally
+
+Install RabbitMQ locally: https://www.rabbitmq.com/download.html
+
+### On Heroku
+
 Create a directory:
 ```
 mkdir rapid
@@ -43,8 +49,6 @@ To build the project use:
 ```
 mvn clean install
 ```
-
-Install RabbitMQ locally: https://www.rabbitmq.com/download.html
 
 Then run the app with either:
 ```
